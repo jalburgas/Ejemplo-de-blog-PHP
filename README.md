@@ -14,7 +14,8 @@ CREATE TABLE `posts` (
   `date` date NOT NULL,
   `duration` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
+**************************************************************************
+*****************************************************************************
 
 ![imagen](https://github.com/user-attachments/assets/31be7863-2dd1-4284-bdb6-787d540e42ea)
 
