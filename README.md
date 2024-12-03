@@ -1,6 +1,6 @@
 # Ejemplo-de-blog-PHP
 Ejemplo de blog PHP
-Es importante crear la carpeta uploads que donde se guardaran los archivo img
+Es importante crear la carpeta uploads donde se guardaran los archivo img
 ****************************
 Base de Datos Mysql blog_db
 ********************
